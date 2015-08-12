@@ -1,0 +1,68 @@
+{
+    "aliquot": 6, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "1-2 crystal fusion K:25", 
+    "commit": "f51f7647ba651c2a808ccd3ec949b2abaa6889c6", 
+    "detectors": {
+        "AX": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "CDD": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "H1": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "H2": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "L1": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "L2": {
+            "deflection": null, 
+            "gain": null
+        }
+    }, 
+    "experiment_identifier": "Irradiation-NM-264", 
+    "identifier": "23329", 
+    "increment": null, 
+    "irradiation": "NM-264", 
+    "irradiation_level": "K", 
+    "irradiation_position": 25, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "CDD"
+        }, 
+        "Ar37": {
+            "detector": "L2"
+        }, 
+        "Ar38": {
+            "detector": "L1"
+        }, 
+        "Ar39": {
+            "detector": "AX"
+        }, 
+        "Ar40": {
+            "detector": "H1"
+        }, 
+        "Ar41": {
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "jan", 
+    "material": "Sanidine", 
+    "project": "J-Curve", 
+    "queue_conditionals_name": "", 
+    "sample": "FC-2", 
+    "spec_sha": "da39a3ee5e6b4b0d3255bfef95601890afd80709", 
+    "timestamp": "2014-01-25T13:48:53", 
+    "username": "Heizler", 
+    "uuid": "8e1c6a71-b57f-48b9-8286-3fe41c65f967"
+}
